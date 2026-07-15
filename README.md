@@ -9,7 +9,7 @@ Ph.D. Candidate in Epidemiology and Biostatistics at Xi’an Jiaotong University
 ## Research interests
 - Environmental Epidemiology: Quantifying health impacts of ambient air pollution, implementing causal‑inference frameworks and statistical models for large‑scale cohort data.
 - Nutritional Epidemiology: Exploring how long‑term dietary patterns contribute to the onset of chronic diseases with observational population data.
-- Reproducible epidemiological workflow, confounder adjustment and advanced statistical methodology primarily implemented in R, SAS and SPSS.
+- Reproducible epidemiological workflow, confounder adjustment and advanced statistical methodology primarily implemented in R.
 
 ## Currently
 - Performing exposure‑outcome analyses based on nationwide cohort datasets to assess environmental and nutritional risk factors.

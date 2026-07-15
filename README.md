@@ -18,7 +18,7 @@ Ph.D. Candidate in Epidemiology and Biostatistics at Xi’an Jiaotong University
 
 ## Tools I work with
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=r,sas,latex,spss,git,vscode,docker,ubuntu" theme="light">
+  <img src="https://skillicons.dev/icons?i=r,latex,git,vscode,docker,ubuntu" theme="light">
 </p>
 
 ## Contact
